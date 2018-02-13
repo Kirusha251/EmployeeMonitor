@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b43537b9-560c-460a-9206-2540a5706243" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/employee-monitor.iml" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/node_modules/debug/.coveralls.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/node_modules/debug/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/node_modules/expand-brackets/node_modules/debug/.coveralls.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/node_modules/expand-brackets/node_modules/debug/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@angular/cli/node_modules/nopt/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@ngx-translate/core/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@ngx-translate/http-loader/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/after/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ajv/scripts/.eslintrc.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/angular2-template-loader/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ansicolors/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/array-includes/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/asn1/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/assert/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/assert/.zuul.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ast-types/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/aws4/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/base62/.codeclimate.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/base62/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/base64-arraybuffer/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/blob/.zuul.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bonjour/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/boom/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/boom/node_modules/hoek/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/browserify-aes/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/browserify-cipher/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/browserify-rsa/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/browserify-zlib/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/buffer-indexof/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/buffer-xor/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/buffer/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/buffer/bin/zuul-es5.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/buffer/bin/zuul-es6.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/buffer/node_modules/isarray/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cardinal/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/chardet/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cipher-base/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cli-table/node_modules/colors/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cli-width/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cloneable-readable/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/coa/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/common-tags/appveyor.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/concat-map/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/configstore/node_modules/uuid/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/connect/node_modules/utils-merge/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/console-browserify/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/copy-webpack-plugin/appveyor.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/create-ecdh/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/create-hash/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cryptiles/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/crypto-browserify/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/crypto-browserify/.zuul.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/custom-event/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/d/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/date-now/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/dateformat/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/debug/.coveralls.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/debug/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/deep-equal/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/deep-is/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/define-properties/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/defined/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/detective/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/dev-ip/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/diffie-hellman/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/discontinuous-range/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/dns-equal/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/dns-txt/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/dom-serialize/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/domhandler/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/duplexer2/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/duplexify/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/easy-extender/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/emitter-steward/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/encoding/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ent/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/entities/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/errno/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/error/.istanbul.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es-abstract/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es-to-primitive/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es6-iterator/appveyor.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es6-map/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es6-set/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es6-symbol/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es6-templates/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/es6-weak-map/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/event-emitter/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/events/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/events/.zuul.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/eventsource/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/expand-braces/node_modules/braces/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/expand-braces/node_modules/expand-range/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/expand-braces/node_modules/is-number/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/expand-range/node_modules/isarray/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extend/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-zip/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-zip/node_modules/minimist/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/extract-zip/node_modules/mkdirp/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fast-deep-equal/.eslintrc.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fast-deep-equal/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fast-deep-equal/benchmark/.eslintrc.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fast-deep-equal/spec/.eslintrc.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fast-json-stable-stringify/.eslintrc.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fast-json-stable-stringify/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fastfall/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fastparallel/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fastparse/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fastq/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fastseries/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fbjs/node_modules/ua-parser-js/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fd-slicer/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/flush-write-stream/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/formidable/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/from2/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fs-write-stream-atomic/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fstream/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/function-bind/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generate-function/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generate-object-property/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/ci-cd/templates/_.gitlab-ci.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/ci-cd/templates/_circle.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/ci-cd/templates/_docker-registry.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/ci-cd/templates/_travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/ci-cd/templates/jenkins/_jenkins.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/cloudfoundry/templates/_application-cloudfoundry.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/cloudfoundry/templates/_manifest.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/docker-compose/templates/_consul.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/docker-compose/templates/_docker-compose.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/docker-compose/templates/_jhipster-console.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/docker-compose/templates/_jhipster-registry.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/docker-compose/templates/_kafka.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/docker-compose/templates/_keycloak.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/docker-compose/templates/_prometheus.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/docker-compose/templates/_traefik.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/docker-compose/templates/alertmanager-conf/_config.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/docker-compose/templates/central-server-config/_application.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/docker-compose/templates/prometheus-conf/_prometheus.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/heroku/templates/_application-heroku.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/heroku/templates/_bootstrap-heroku.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/kubernetes/templates/_deployment.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/kubernetes/templates/_ingress.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/kubernetes/templates/_namespace.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/kubernetes/templates/_prometheus-tpr.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/kubernetes/templates/_prometheus.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/kubernetes/templates/_service.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/kubernetes/templates/console/_jhipster-console.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/kubernetes/templates/console/_jhipster-dashboard-console.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/kubernetes/templates/console/_jhipster-elasticsearch.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/kubernetes/templates/console/_jhipster-logstash.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/kubernetes/templates/console/_jhipster-zipkin.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/kubernetes/templates/console/_logstash-config.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/kubernetes/templates/db/_couchbase.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/kubernetes/templates/db/_elasticsearch.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/kubernetes/templates/db/_kafka.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/kubernetes/templates/db/_mariadb.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/kubernetes/templates/db/_mongodb.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/kubernetes/templates/db/_mysql.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/kubernetes/templates/db/_postgresql.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/kubernetes/templates/registry/_application-configmap.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/kubernetes/templates/registry/_consul-config-loader.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/kubernetes/templates/registry/_consul.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/kubernetes/templates/registry/_jhipster-registry.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/openshift/templates/_deployment.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/openshift/templates/db/_cassandra.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/openshift/templates/db/_couchbase.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/openshift/templates/db/_elasticsearch.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/openshift/templates/db/_kafka.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/openshift/templates/db/_mariadb.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/openshift/templates/db/_mongodb.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/openshift/templates/db/_mysql.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/openshift/templates/db/_postgresql.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/openshift/templates/monitoring/_jhipster-metrics.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/openshift/templates/monitoring/_jhipster-monitoring.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/openshift/templates/registry/_application-configmap.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/openshift/templates/registry/_consul.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/openshift/templates/registry/_jhipster-registry.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/openshift/templates/scc/_scc-config.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/rancher-compose/templates/_docker-compose.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/rancher-compose/templates/_rancher-compose.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/rancher-compose/templates/registry-config-sidekick/_application.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/server/templates/src/main/docker/_app.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/server/templates/src/main/docker/_cassandra-cluster.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/server/templates/src/main/docker/_cassandra-migration.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/server/templates/src/main/docker/_cassandra.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/server/templates/src/main/docker/_consul.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/server/templates/src/main/docker/_couchbase-cluster.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/server/templates/src/main/docker/_couchbase.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/server/templates/src/main/docker/_elasticsearch.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/server/templates/src/main/docker/_hazelcast-management-center.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/server/templates/src/main/docker/_jhipster-registry.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/server/templates/src/main/docker/_kafka.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/server/templates/src/main/docker/_keycloak.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/server/templates/src/main/docker/_mariadb.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/server/templates/src/main/docker/_mongodb-cluster.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/server/templates/src/main/docker/_mongodb.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/server/templates/src/main/docker/_mssql.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/server/templates/src/main/docker/_mysql.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/server/templates/src/main/docker/_oracle.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/server/templates/src/main/docker/_postgresql.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/server/templates/src/main/docker/_sonar.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/server/templates/src/main/docker/_swagger-editor.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/server/templates/src/main/docker/config/consul-config/application.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/server/templates/src/main/docker/config/docker-config/application.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/server/templates/src/main/docker/config/localhost-config/application.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/server/templates/src/main/resources/config/_application-dev.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/server/templates/src/main/resources/config/_application-prod.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/server/templates/src/main/resources/config/_application.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/server/templates/src/main/resources/config/_bootstrap-prod.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/server/templates/src/main/resources/config/_bootstrap.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/server/templates/src/main/resources/swagger/_api.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/server/templates/src/test/resources/_cassandra-random-port.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/server/templates/src/test/resources/config/_application.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/generator-jhipster/generators/server/templates/src/test/resources/config/_bootstrap.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/getpass/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/glob-parent/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/handle-thing/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/handlebars/.istanbul.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/handlebars/appveyor.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/har-validator/node_modules/ajv/scripts/.eslintrc.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/has-symbol-support-x/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/has-to-string-tag-x/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/hash.js/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/hawk/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/hawk/node_modules/hoek/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/hmac-drbg/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/hpack.js/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/html-wiring/node_modules/cheerio/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/html-wiring/node_modules/domhandler/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/html-wiring/node_modules/htmlparser2/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/html-wiring/node_modules/htmlparser2/node_modules/entities/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/htmlparser2/node_modules/domutils/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/http-deceiver/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/iconv-lite/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ieee754/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ieee754/.zuul.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/insight/node_modules/cli-width/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/insight/node_modules/performance-now/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/insight/node_modules/run-async/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ip/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ipaddr.js/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-arrayish/.istanbul.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-arrayish/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-callable/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-date-object/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-my-json-valid/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-number-like/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-object/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-promise/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-regex/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-symbol/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/isstream/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/istanbul/node_modules/resolve/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jasmine-core/.codeclimate.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jhipster-core/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/js-base64/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json-schema-traverse/.eslintrc.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json-schema-traverse/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json-schema-traverse/spec/.eslintrc.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/json-stable-stringify/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/jstransform/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/karma-phantomjs-launcher/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/karma-source-map-support/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/karma-webpack/node_modules/async/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/karma/appveyor.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/after/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/debug/.coveralls.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/connect/node_modules/debug/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/finalhandler/node_modules/debug/.coveralls.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/finalhandler/node_modules/debug/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/karma/node_modules/ws/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/kew/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/less/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/less/appveyor.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/limiter/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/localtunnel/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/localtunnel/node_modules/debug/.coveralls.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/localtunnel/node_modules/debug/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/log4js/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/log4js/node_modules/semver/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/loglevel/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/loglevel/_config.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/macaddress/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/marked/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/minimalistic-crypto-utils/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/minimist/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mkdirp/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mkdirp/node_modules/minimist/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/multicast-dns-service-types/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/multicast-dns/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/multipipe/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/mute-stream/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ng-jhipster/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ngx-cookie/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-emoji/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-fetch/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-gyp/node_modules/performance-now/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-modules-path/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-notifier/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/node_modules/cross-spawn/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/node_modules/cross-spawn/appveyor.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/appveyor.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nopt/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/nth-check/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-keys/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-path/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/opencollective/appveyor.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/optimist/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/optimist/node_modules/minimist/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/original/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/original/node_modules/url-parse/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/original/node_modules/url-parse/.zuul.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/os-shim/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/osenv/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/parse-asn1/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/path-parse/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/performance-now/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/phantomjs-prebuilt/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/phantomjs-prebuilt/node_modules/jsonfile/appveyor.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/phantomjs-prebuilt/node_modules/performance-now/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/postcss-modules-values/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/preserve/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pretty-error/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/process-nextick-args/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/proxy-middleware/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/prr/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/public-encrypt/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pump/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pumpify/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pumpify/node_modules/pump/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/qjobs/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/querystring-es3/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/querystring/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/randombytes/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/randombytes/.zuul.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/randomfill/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/randomfill/.zuul.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readable-stream/node_modules/isarray/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/readdirp/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/recast/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rechoir/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/redeyed/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/remap-istanbul/node_modules/isarray/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/remap-istanbul/node_modules/readable-stream/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/remap-istanbul/node_modules/readable-stream/.zuul.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/renderkid/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/renderkid/node_modules/domhandler/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/renderkid/node_modules/htmlparser2/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/replace-ext/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/request-progress/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/require-directory/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/require-main-filename/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/requires-port/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/resolve/appveyor.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/reusify/.coveralls.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/reusify/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/rx/.coveralls.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/safe-buffer/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/select-hose/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/selfsigned/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/serve-static/node_modules/debug/.coveralls.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/serve-static/node_modules/debug/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sha.js/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sntp/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sntp/node_modules/hoek/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/socket.io-parser/node_modules/component-emitter/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sockjs/node_modules/uuid/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map-loader/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map-resolve/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/spawn-sync/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/spawn-sync/appveyor.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/spdy-transport/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/spdy/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sprintf-js/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/sshpk/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/stdout-stream/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/steed/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/stream-browserify/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/stream-each/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/stream-http/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/stream-http/.zuul.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/stream-shift/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/string-template/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/stringstream/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/debug/.coveralls.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/stylus/node_modules/debug/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/svgo/.svgo.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/swagger-ui/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tabtab/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tabtab/examples/bower-complete/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tabtab/node_modules/mute-stream/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tabtab/node_modules/tmp/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tar/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/text-table/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/through/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/thunky/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/to-arraybuffer/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/to-arraybuffer/.zuul.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/toposort/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/tslint-loader/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/typedarray/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ua-parser-js/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/uglify-js/node_modules/cliui/.coveralls.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/uglify-js/node_modules/cliui/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/uglify-to-browserify/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ultron/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/underscore.string/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/uniqs/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/unique-slug/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/unset-value/node_modules/isarray/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/url/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/url/.zuul.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/useragent/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/util/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/util/.zuul.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/void-elements/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/web-app-manifest-loader/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-dev-server/node_modules/debug/.coveralls.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/webpack-dev-server/node_modules/debug/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/weinre/node_modules/qs/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/whet.extend/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/node_modules/async/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/winston/node_modules/colors/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/worker-farm/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ws/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/yauzl/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/yeoman-environment/node_modules/debug/.coveralls.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/yeoman-environment/node_modules/debug/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/yeoman-generator/node_modules/debug/.coveralls.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/node_modules/yeoman-generator/node_modules/debug/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/docker/app.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/docker/postgresql.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/docker/sonar.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config/application-dev.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config/application-prod.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config/application.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/config/application.yml" afterPath="" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/config/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-204">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="employee-monitor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EmployeeMonitor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="employee-monitor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EmployeeMonitor" type="462c0819:PsiDirectoryNode" />
+              <item name=".gitignore" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="employee-monitor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EmployeeMonitor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="employee-monitor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EmployeeMonitor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="employee-monitor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EmployeeMonitor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="employee-monitor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="EmployeeMonitor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration name="EmployeeMonitorApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="by.achramionok.EmployeeMonitorApp" />
+      <module name="employee-monitor" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b43537b9-560c-460a-9206-2540a5706243" name="Default" comment="" />
+      <created>1518523903343</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1518523903343</updated>
+      <workItem from="1518523910967" duration="440000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="440000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32963374" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-204">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
